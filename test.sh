@@ -1,0 +1,1 @@
+python3 -m vietTTS.synthesizer --text "how old are you" --output clip.wav --lexicon-file assets/infore/lexicon.txt --silence-duration 0.2
